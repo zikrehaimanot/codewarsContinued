@@ -3,7 +3,7 @@
 Here you will find 5 code wars. Both the question and the solution.
 
 
-# Link to Code Wars page:
+## Link to Code Wars page:
 
 https://www.codewars.com/users/zhaimanot
 
@@ -11,13 +11,7 @@ https://www.codewars.com/users/zhaimanot
 
 ## Lesssons Learned:
 
-I was able to improve my understand of these types of questions and felt more confident working through the problems towards a solution.
-
-
-
-
-
-
+I was able to improve my understand of these types of questions and felt more confident working through the problems.
 
 ## Examples:
 
